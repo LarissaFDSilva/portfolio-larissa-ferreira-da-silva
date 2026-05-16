@@ -1,5 +1,7 @@
  # Larissa Ferreira da Silva
-> Estudante de Analise e Desenvolvimento de Sistemas em transição de carreira para TI (Estágio/Trainee). Possuo base em Front-end (HTML, CSS, JavaScript), Banco de Dados (SQL) e experiência comprovada como Instrutora de Treinamento. Destaque para Comunicação Assertiva, Inteligência Emocional e foco em alta performance e Desenvolvimento de Pessoas.
+> Estudante de Análise e Desenvolvimento de Sistemas (2º semestre) em transição de carreira para a área de Tecnologia, com foco em oportunidades de Estágio ou Trainee.
+Possuo base sólida em desenvolvimento Front-end (HTML, CSS, JavaScript) e Banco de Dados (SQL), com forte interesse em arquitetura de dados e experiência do usuário (UX/UI).
+Minha trajetória traz um grande diferencial competitivo: experiência comprovada como Instrutora de Treinamento. Essa bagagem consolidou minhas soft skills em Comunicação Assertiva, Inteligência Emocional, Desenvolvimento de Pessoas e foco constante em alta performance, competências essenciais para colaborar e gerar valor em times ágeis e dinâmicos.
  
 ---
  
@@ -11,21 +13,27 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na UNICID. Sou entusiasta da tecnologia como ferramenta para a resolução de problemas complexos e otimização de processos.
+Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na UNICID. Sou entusiasta da tecnologia como ferramenta para a resolução de problemas complexos e otimização de processos. Minha trajetória profissional é marcada por uma transição consolidada: trago uma sólida bagagem como Instrutora de Treinamento diretamente para o universo da Tecnologia da Informação, unindo a paixão pelo desenvolvimento de software à capacidade de conectar pessoas e processos organizacionais dentro do ambiente corporativo moderno.
 
 🚀 Minhas principais áreas de foco incluem:
 
-UX/UI Design: Foco em interfaces intuitivas e na melhoria da jornada do usuário.
+UX/UI Design: Foco em interfaces intuitivas, usabilidade e na melhoria contínua da jornada do usuário.
 
-Análise de Dados: Transformando informações em insights estratégicos.
+Análise de Dados: Transformando informações brutas e modelagens estruturadas em insights estratégicos para o negócio.
 
-IA & Engenharia de Prompt: Explorando o potencial da Inteligência Artificial Generativa para aumentar a produtividade e criar soluções inovadoras.
+IA & Engenharia de Prompt: Explorando o potencial da Inteligência Artificial Generativa para aumentar a produtividade e criar soluções inovadoras no fluxo de trabalho.
  
-* **Habilidades Técnicas:** Python, Java, SQL, HTML5, CSS3, modelagem de dados (MER/DER), manipulação de bancos relacionais, criação de wireframes e protótipos de alta fidelidade, aplicação de Heurísticas de Nielsen e foco em acessibilidade (WCAG), engenharia de prompt para LLMs, integração de ferramentas de IA no fluxo de desenvolvimento, desenvolvimento de scripts para automação de tarefas rotineiras, desenvolvimento de material didático técnico e gestão de ciclos de aprendizado.
+* **Habilidades Técnicas:** Python, Java, SQL, HTML5, CSS3, JavaScript, modelagem de dados (MER/DER), manipulação de bancos relacionais, criação de wireframes e protótipos de alta fidelidade no Figma, aplicação prática de Heurísticas de Nielsen e foco rigoroso em acessibilidade digital (WCAG). Domínio em engenharia de prompt para LLMs, integração de ferramentas de IA no fluxo de desenvolvimento, criação de scripts para automação de tarefas rotineiras, além do desenvolvimento de material didático técnico e gestão de ciclos de aprendizado profissional.
 
-* **Habilidades Socioemocionais:** Comunicação & Didática, Resolução de Problemas , Design Centrado no Humano, Trabalho em equipe em ambientes dinâmicos e adaptabilidade a novas tecnologias. 
+* **Habilidades Socioemocionais:** Comunicação Assertiva & Didática, Inteligência Emocional, Resolução Complexa de Problemas, Design Centrado no Humano (DCU), facilidade para trabalhar em equipe em ambientes dinâmicos e alta adaptabilidade a novas tecnologias.
 
-* **Experiência/Projetos Relevantes:** Desenvolvimento de um website de e-commerce para uma marca fictícia de pulseiras inteligentes (Fitness Trackers). O projeto foi o destaque da avaliação semestral, focado em transformar conceitos teóricos em uma solução digital funcional. Foco Principal: Aplicação de fundamentos de Front-end e estruturação de layout responsivo. Diferenciais: Implementação de princípios de UX/UI voltados para a jornada de compra e conversão de vendas. Tecnologias: HTML5, CSS3 e JavaScript.
+* **Experiência/Projetos Relevantes:** Website de E-commerce: Desenvolvimento de uma plataforma para uma marca fictícia de pulseiras inteligentes (Fitness Trackers). O projeto foi destaque na avaliação semestral, focado em transformar conceitos teóricos em uma solução digital funcional, aplicando fundamentos de Front-end, layout responsivo e princípios de UX/UI voltados para a jornada de compra e conversão de novos clientes. Tecnologias utilizadas: HTML5, CSS3 e JavaScript.
+
+Banco de Dados & IoT: Modelagem completa e estruturação de scripts SQL para um ecossistema de Monitoramento Inteligente com IoT, aplicando conceitos rigorosos de normalização de dados e arquitetura de tabelas relacionais. O projeto focou no mapeamento de fluxos de dados em tempo real e na estruturação de chaves primárias e estrangeiras, garantindo alta escalabilidade, segurança contra redundâncias e total integridade das informações armazenadas.
+
+Adicionalmente, realizo auditorias completas de usabilidade de sistemas, mapeamento de jornadas de usuários, criação de personas detalhadas para validação de fluxos e benchmarking de performance de modelos de linguagem, aplicando conceitos avançados de melhoria de processos de forma analítica e totalmente focada em resultados operacionais reais.
+
+Busco ativamente oportunidades de Estágio ou Trainee onde eu possa aplicar essa sinergia única entre desenvolvimento técnico e maturidade comportamental, gerando valor real para o negócio desde o primeiro dia de atuação na equipe de tecnologia da empresa.
 
 ---
  
