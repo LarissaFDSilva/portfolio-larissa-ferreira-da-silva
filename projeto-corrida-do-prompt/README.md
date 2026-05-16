@@ -42,16 +42,13 @@ Cada iteração atua sobre uma dimensão visual diferente: Prompt 3 define a pal
 
 O prompt de texto foi iterado 5 vezes, revelando como contexto e restrições narrativas enriquecem progressivamente a resposta:
 
-Versão - Acréscimo - Personagem - Característica marcante
-Prompt 1 - Instrução base - Capitão Elias Vance - Tom genérico, ofertas de restituição e serviço
-
-Prompt 2 - + Pirata vive num navio + rei da Inglaterra - Capitão Thomas Crowe - Datação histórica (1720), mais atmosfera náutica
-
-Prompt 3 - Atacou navio do rei + salvar a própria vida - Capitão Julian Blackwood- Tom urgente, proposta de delação de outros piratas
-
-Prompt 4 - + Rei decidido a executar + carta comovente - Capitão Samuel Vane - Pirata oferece a própria vida pela tripulação
-
-Prompt 5 - + Prazo de 48 horas - Capitão Edward Thatch - Justificativa moral profunda: o ouro foi enviado para alimentar viúvas e órfãos
+| Versão | Acréscimo / Personagem | Característica marcante |
+| :--- | :--- | :--- |
+| **Prompt 1** | Instrução base - Capitão Elias Vance | Tom genérico, ofertas de restituição e serviço |
+| **Prompt 2** | + Pirata vive num navio + rei da Inglaterra | Capitão Thomas Crowe - Datação histórica (1720), mais atmosfera náutica |
+| **Prompt 3** | Atacou navio do rei + salvar a própria vida | Capitão Julian Blackwood- Tom urgente, proposta de delação de outros piratas |
+| **Prompt 4** | + Rei decidido a executar + carta comovente | Capitão Samuel Vane - Pirata oferece a própria vida pela tripulação |
+| **Prompt 5** | + Prazo de 48 horas - Capitão Edward Thatch | Justificativa moral profunda: o ouro foi enviado para alimentar viúvas e órfãos |
 
 Principais aprendizados:
 
