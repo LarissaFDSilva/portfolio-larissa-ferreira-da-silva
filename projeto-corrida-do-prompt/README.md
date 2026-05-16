@@ -26,15 +26,15 @@ O experimento demonstrou de forma clara como cada iteração de prompt produz re
 
 Versão - Acréscimo ao Promp - tImpacto no Resultado
 
-Prompt 1 - Base: astronauta barroco tocando violoncelo em Marte - Cenário realista 4K; astronauta com ornamentos barrocos, violoncelo padrão
+🎨 Evolução do Prompt de Imagem (Qwen Plus)
 
-Prompt 2 - + "hiperrealista" + violoncelo no estilo barroco - Instrumento também ornamentado; composição mais dramática e coesa artisticamente
-
-Prompt 3 - + Iluminação cinematográfica: luz dourada ao pôr do sol marciano, sombras longas dramáticas - A paleta de cores muda radicalmente: tons alaranjados e dourados contrastam com o azul escuro do espaço ao fundo, criando profundidade e tensão visual
-
-Prompt 4 - + Perspectiva e enquadramento: plano médio frontal, câmera levemente abaixo do sujeito (ângulo contra-plongée), desfoque de fundo (bokeh) nas rochas marcianas - O astronauta ganha imponência e presença; o fundo desfocado isola o personagem e direciona o olhar do espectador para os detalhes do traje e do instrumento
-
-Prompt 5 - + Detalhes narrativos de ambiente: poeira marciana suspensa no ar, partículas de luz refletindo nas gemas do traje barroco, duas luas visíveis no céu crepuscular - A cena passa de uma ilustração estática para um momento narrativo: o ambiente interage com o personagem, conferindo vida, escala e profundidade épica à composição
+| Versão | Foco do Acréscimo / Alteração | Impacto no Resultado Realizado |
+| :--- | :--- | :--- |
+| **Prompt 1** | Base: Cenário realista 4K, astronauta em Marte com traje barroco tocando violoncelo. | Geração inicial com composição limpa, mas elementos do traje simplificados. |
+| **Prompt 2** | Mudança para "hiperrealista" e especificação de violoncelo também em estilo barroco. | O instrumento ganha detalhes dourados e ornamentos coesos com o traje. |
+| **Prompt 3** | Ângulo cinematográfico, iluminação baixa, poeira suspensa e paleta em tons de ferrugem/dourado. | Atmosfera mais densa, imagem texturizada com poeira e reflexos dourados evidentes na armadura barroca. |
+| **Prompt 4** | Estética cinematográfica com forte contraste de luz/sombra e detalhes simulando veludo no traje. | Iluminação dramática (chiaroscuro), realçando os relevos dourados contra as partes escuras do traje. |
+| **Prompt 5** | Enquadramento técnico: plano médio frontal e fundo desfocado suavemente (bokeh) nas rochas. | Isolamento perfeito do astronauta, direcionando estritamente a atenção do espectador para os detalhes da armadura e do violoncelo. |
 
 Cada iteração atua sobre uma dimensão visual diferente: Prompt 3 define a paleta e a emoção da luz; Prompt 4 controla a relação câmera-sujeito e a hierarquia visual; Prompt 5 adiciona elementos ambientais que transformam a cena em uma narrativa. Juntos, demonstram que uma imagem de qualidade cinematográfica resulta do controle explícito de iluminação, enquadramento e contexto ambiental — não apenas do tema central.
 
