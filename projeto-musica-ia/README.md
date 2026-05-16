@@ -32,4 +32,6 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 3. **Produção:** Geração das letras e posterior conversão em áudio no Suno AI, ajustando parâmetros de gênero musical e BPM.
  
 ---
-Desenvolvido por [[Larissa Silva]](https://github.com/LarissaFDSilva)
+Desenvolvido por [Larissa Silva](https://github.com/LarissaFDSilva)
+
+[Voltar ao início](https://github.com/LarissaFDSilva/portfolio_LarissaFDSilva)
